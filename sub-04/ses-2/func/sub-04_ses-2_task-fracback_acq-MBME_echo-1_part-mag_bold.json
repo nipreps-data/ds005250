@@ -1,19 +1,11 @@
 {
     "AcquisitionMatrixPE": 110,
     "AcquisitionNumber": 1,
-    "B0FieldIdentifier": [
-        "sub_04_ses_1_acq_MBME_medic"
-    ],
-    "B0FieldSource": [
-        "sub_04_ses_1_acq_MBME_medic",
-        "sub_04_ses_1_DCAN_fmap_acq_MEGE",
-        "sub_04_ses_1_DCAN_fmap_acq_MESE"
-    ],
     "BandwidthPerPixelPhaseEncode": 32.468,
     "BaseResolution": 110,
     "BidsGuess": [
         "func",
-        "_acq-epfid2m6_dir-PA_run-23_echo-1_part-phase_bold"
+        "_acq-epfid2m6_dir-PA_run-22_echo-1_bold"
     ],
     "BodyPartExamined": "BRAIN",
     "CoilCombinationMethod": "Sum of Squares",
@@ -39,16 +31,28 @@
     "ImageType": [
         "ORIGINAL",
         "PRIMARY",
-        "P",
+        "M",
         "MB",
         "TE1",
         "ND",
-        "MOSAIC",
-        "PHASE"
+        "NORM",
+        "MOSAIC"
     ],
     "ImagingFrequency": 123.252535,
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "InstitutionName": "SC3T",
+    "IntendedFor": [
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-1_part-mag_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-1_part-phase_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-2_part-mag_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-2_part-phase_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-3_part-mag_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-3_part-phase_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-4_part-mag_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-4_part-phase_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-5_part-mag_bold.nii.gz",
+        "bids::sub-04/ses-2/func/sub-04_ses-2_task-fracback_acq-MBME_echo-5_part-phase_bold.nii.gz"
+    ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",
@@ -80,7 +84,7 @@
     "SequenceName": "epfid2d5_110",
     "SequenceVariant": "SK\\SS",
     "SeriesDescription": "DCAN:func_task-frackack_acq-multiecho",
-    "SeriesNumber": 23,
+    "SeriesNumber": 22,
     "ShimSetting": [
         3751,
         2505,
@@ -171,6 +175,5 @@
     "StationName": "AWP66044",
     "TotalReadoutTime": 0.0305196,
     "TxRefAmp": 220.897,
-    "Units": "arbitrary",
     "WipMemBlock": "e8ba99ec-ff60-4f18-b248-b8c520709213||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
 }

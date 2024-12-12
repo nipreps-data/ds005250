@@ -1,6 +1,9 @@
 {
     "AcquisitionMatrixPE": 110,
     "AcquisitionNumber": 1,
+    "B0FieldIdentifier": [
+        "sub_04_ses_1_acq_MBME_medic"
+    ],
     "B0FieldSource": [
         "sub_04_ses_1_acq_MBME_medic",
         "sub_04_ses_1_DCAN_fmap_acq_MEGE",
