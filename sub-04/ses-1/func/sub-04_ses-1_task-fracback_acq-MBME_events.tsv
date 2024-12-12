@@ -1,0 +1,249 @@
+onset	duration	trial_type	classification	response_time	stimulus	trial_number
+0.0	24.0	fixation	n/a	n/a	stimuli/mask_Fix_xhair.jpg	n/a
+24.0	9.6	instruction	n/a	n/a	stimuli/2back_img_0.jpg	n/a
+33.6	0.8	0back	true negative	n/a	stimuli/fnb_formB_07.jpg	1.0
+34.4	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+36.0	0.8	0back	true negative	n/a	stimuli/fnb_formB_10.jpg	2.0
+36.8	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+38.4	0.8	0back	true negative	n/a	stimuli/fnb_formB_13.jpg	3.0
+39.199999999999996	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+40.8	0.8	0back	true positive	0.3604	stimuli/fnb_formB_19.jpg	4.0
+41.599999999999994	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+43.199999999999996	0.8	0back	true negative	n/a	stimuli/fnb_formB_05.jpg	5.0
+43.99999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+45.599999999999994	0.8	0back	true negative	n/a	stimuli/fnb_formB_09.jpg	6.0
+46.39999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+47.99999999999999	0.8	0back	true positive	0.4085	stimuli/fnb_formB_19.jpg	7.0
+48.79999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+50.39999999999999	0.8	0back	true negative	n/a	stimuli/fnb_formB_14.jpg	8.0
+51.19999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+52.79999999999999	0.8	0back	true negative	n/a	stimuli/fnb_formB_06.jpg	9.0
+53.59999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+55.19999999999999	0.8	0back	true positive	0.3928	stimuli/fnb_formB_19.jpg	10.0
+55.999999999999986	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+57.59999999999999	0.8	0back	true negative	n/a	stimuli/fnb_formB_08.jpg	11.0
+58.399999999999984	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+59.999999999999986	0.8	0back	true negative	n/a	stimuli/fnb_formB_07.jpg	12.0
+60.79999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+62.399999999999984	0.8	0back	true positive	0.3888	stimuli/fnb_formB_19.jpg	13.0
+63.19999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+64.79999999999998	0.8	0back	true negative	n/a	stimuli/fnb_formB_20.jpg	14.0
+65.59999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+67.19999999999997	0.8	0back	true negative	n/a	stimuli/fnb_formB_04.jpg	15.0
+67.99999999999997	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+69.59999999999997	0.8	0back	true negative	n/a	stimuli/fnb_formB_11.jpg	16.0
+70.39999999999996	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+71.99999999999996	0.8	0back	true negative	n/a	stimuli/fnb_formB_18.jpg	17.0
+72.79999999999995	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+74.39999999999995	0.8	0back	true negative	n/a	stimuli/fnb_formB_17.jpg	18.0
+75.19999999999995	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+76.79999999999994	0.8	0back	true positive	0.3852	stimuli/fnb_formB_19.jpg	19.0
+77.59999999999994	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+79.19999999999993	0.8	0back	true negative	n/a	stimuli/fnb_formB_17.jpg	20.0
+79.99999999999993	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+81.59999999999992	9.6	instruction	n/a	n/a	stimuli/2back_img_2.jpg	n/a
+91.19999999999992	0.8	2back	true negative	n/a	stimuli/fnb_formB_06.jpg	21.0
+91.99999999999991	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+93.59999999999991	0.8	2back	true negative	n/a	stimuli/fnb_formB_18.jpg	22.0
+94.3999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+95.9999999999999	0.8	2back	false positive	0.6059	stimuli/fnb_formB_11.jpg	23.0
+96.7999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+98.39999999999989	0.8	2back	true negative	n/a	stimuli/fnb_formB_13.jpg	24.0
+99.19999999999989	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+100.79999999999988	0.8	2back	true negative	n/a	stimuli/fnb_formB_12.jpg	25.0
+101.59999999999988	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+103.19999999999987	0.8	2back	true positive	0.3792	stimuli/fnb_formB_13.jpg	26.0
+103.99999999999987	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+105.59999999999987	0.8	2back	true negative	n/a	stimuli/fnb_formB_10.jpg	27.0
+106.39999999999986	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+107.99999999999986	0.8	2back	true negative	n/a	stimuli/fnb_formB_16.jpg	28.0
+108.79999999999986	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+110.39999999999985	0.8	2back	false positive	0.6586	stimuli/fnb_formB_11.jpg	29.0
+111.19999999999985	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+112.79999999999984	0.8	2back	true positive	0.6575	stimuli/fnb_formB_16.jpg	30.0
+113.59999999999984	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+115.19999999999983	0.8	2back	true negative	n/a	stimuli/fnb_formB_06.jpg	31.0
+115.99999999999983	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+117.59999999999982	0.8	2back	false negative	n/a	stimuli/fnb_formB_16.jpg	32.0
+118.39999999999982	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+119.99999999999982	0.8	2back	true negative	n/a	stimuli/fnb_formB_04.jpg	33.0
+120.79999999999981	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+122.3999999999998	0.8	2back	true negative	n/a	stimuli/fnb_formB_08.jpg	34.0
+123.1999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+124.7999999999998	0.8	2back	true positive	0.6689	stimuli/fnb_formB_04.jpg	35.0
+125.5999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+127.19999999999979	0.8	2back	true negative	n/a	stimuli/fnb_formB_15.jpg	36.0
+127.99999999999979	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+129.5999999999998	0.8	2back	true negative	n/a	stimuli/fnb_formB_08.jpg	37.0
+130.3999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+131.9999999999998	0.8	2back	true negative	n/a	stimuli/fnb_formB_20.jpg	38.0
+132.7999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+134.3999999999998	0.8	2back	true negative	n/a	stimuli/fnb_formB_05.jpg	39.0
+135.19999999999982	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+136.7999999999998	0.8	2back	true positive	0.5394	stimuli/fnb_formB_20.jpg	40.0
+137.59999999999982	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+139.19999999999982	9.6	instruction	n/a	n/a	stimuli/2back_img_2.jpg	n/a
+148.7999999999998	0.8	2back	true negative	n/a	stimuli/fnb_formB_10.jpg	41.0
+149.59999999999982	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+151.19999999999982	0.8	2back	true negative	n/a	stimuli/fnb_formB_05.jpg	42.0
+151.99999999999983	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+153.59999999999982	0.8	2back	true negative	n/a	stimuli/fnb_formB_15.jpg	43.0
+154.39999999999984	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+155.99999999999983	0.8	2back	true positive	0.6159	stimuli/fnb_formB_05.jpg	44.0
+156.79999999999984	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+158.39999999999984	0.8	2back	true positive	0.7706	stimuli/fnb_formB_15.jpg	45.0
+159.19999999999985	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+160.79999999999984	0.8	2back	true negative	n/a	stimuli/fnb_formB_01.jpg	46.0
+161.59999999999985	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+163.19999999999985	0.8	2back	true negative	n/a	stimuli/fnb_formB_10.jpg	47.0
+163.99999999999986	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+165.59999999999985	0.8	2back	true negative	n/a	stimuli/fnb_formB_11.jpg	48.0
+166.39999999999986	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+167.99999999999986	0.8	2back	true negative	n/a	stimuli/fnb_formB_04.jpg	49.0
+168.79999999999987	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+170.39999999999986	0.8	2back	true negative	n/a	stimuli/fnb_formB_14.jpg	50.0
+171.19999999999987	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+172.79999999999987	0.8	2back	false negative	n/a	stimuli/fnb_formB_04.jpg	51.0
+173.59999999999988	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+175.19999999999987	0.8	2back	true negative	n/a	stimuli/fnb_formB_02.jpg	52.0
+175.9999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+177.59999999999988	0.8	2back	true positive	0.5279	stimuli/fnb_formB_04.jpg	53.0
+178.3999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+179.9999999999999	0.8	2back	true negative	n/a	stimuli/fnb_formB_11.jpg	54.0
+180.7999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+182.3999999999999	0.8	2back	false positive	0.6583	stimuli/fnb_formB_11.jpg	55.0
+183.1999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+184.7999999999999	0.8	2back	true negative	n/a	stimuli/fnb_formB_10.jpg	56.0
+185.5999999999999	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+187.1999999999999	0.8	2back	true negative	n/a	stimuli/fnb_formB_18.jpg	57.0
+187.99999999999991	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+189.5999999999999	0.8	2back	true negative	n/a	stimuli/fnb_formB_09.jpg	58.0
+190.39999999999992	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+191.99999999999991	0.8	2back	true negative	n/a	stimuli/fnb_formB_14.jpg	59.0
+192.79999999999993	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+194.39999999999992	0.8	2back	true positive	0.7377	stimuli/fnb_formB_09.jpg	60.0
+195.19999999999993	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+196.79999999999993	9.6	instruction	n/a	n/a	stimuli/2back_img_0.jpg	n/a
+206.39999999999992	0.8	0back	true negative	n/a	stimuli/fnb_formB_11.jpg	61.0
+207.19999999999993	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+208.79999999999993	0.8	0back	true negative	n/a	stimuli/fnb_formB_14.jpg	62.0
+209.59999999999994	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+211.19999999999993	0.8	0back	true negative	n/a	stimuli/fnb_formB_03.jpg	63.0
+211.99999999999994	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+213.59999999999994	0.8	0back	true positive	0.4553	stimuli/fnb_formB_19.jpg	64.0
+214.39999999999995	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+215.99999999999994	0.8	0back	true positive	0.5476	stimuli/fnb_formB_19.jpg	65.0
+216.79999999999995	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+218.39999999999995	0.8	0back	true negative	n/a	stimuli/fnb_formB_11.jpg	66.0
+219.19999999999996	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+220.79999999999995	0.8	0back	true negative	n/a	stimuli/fnb_formB_09.jpg	67.0
+221.59999999999997	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+223.19999999999996	0.8	0back	true negative	n/a	stimuli/fnb_formB_02.jpg	68.0
+223.99999999999997	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+225.59999999999997	0.8	0back	true negative	n/a	stimuli/fnb_formB_08.jpg	69.0
+226.39999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+227.99999999999997	0.8	0back	true negative	n/a	stimuli/fnb_formB_12.jpg	70.0
+228.79999999999998	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+230.39999999999998	0.8	0back	true positive	0.5541	stimuli/fnb_formB_19.jpg	71.0
+231.2	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+232.79999999999998	0.8	0back	true negative	n/a	stimuli/fnb_formB_07.jpg	72.0
+233.6	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+235.2	0.8	0back	true negative	n/a	stimuli/fnb_formB_01.jpg	73.0
+236.0	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+237.6	0.8	0back	true negative	n/a	stimuli/fnb_formB_18.jpg	74.0
+238.4	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+240.0	0.8	0back	true positive	0.3668	stimuli/fnb_formB_19.jpg	75.0
+240.8	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+242.4	0.8	0back	true negative	n/a	stimuli/fnb_formB_06.jpg	76.0
+243.20000000000002	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+244.8	0.8	0back	true negative	n/a	stimuli/fnb_formB_20.jpg	77.0
+245.60000000000002	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+247.20000000000002	0.8	0back	true negative	n/a	stimuli/fnb_formB_06.jpg	78.0
+248.00000000000003	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+249.60000000000002	0.8	0back	true positive	0.5819	stimuli/fnb_formB_19.jpg	79.0
+250.40000000000003	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+252.00000000000003	0.8	0back	true negative	n/a	stimuli/fnb_formB_15.jpg	80.0
+252.80000000000004	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+254.40000000000003	9.6	instruction	n/a	n/a	stimuli/2back_img_2.jpg	n/a
+264.00000000000006	0.8	2back	true negative	n/a	stimuli/fnb_formB_07.jpg	81.0
+264.80000000000007	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+266.4000000000001	0.8	2back	true negative	n/a	stimuli/fnb_formB_04.jpg	82.0
+267.2000000000001	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+268.8000000000001	0.8	2back	true negative	n/a	stimuli/fnb_formB_15.jpg	83.0
+269.60000000000014	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+271.20000000000016	0.8	2back	true negative	n/a	stimuli/fnb_formB_05.jpg	84.0
+272.00000000000017	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+273.6000000000002	0.8	2back	true positive	0.5138	stimuli/fnb_formB_15.jpg	85.0
+274.4000000000002	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+276.0000000000002	0.8	2back	true negative	n/a	stimuli/fnb_formB_14.jpg	86.0
+276.80000000000024	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+278.40000000000026	0.8	2back	true negative	n/a	stimuli/fnb_formB_05.jpg	87.0
+279.2000000000003	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+280.8000000000003	0.8	2back	true negative	n/a	stimuli/fnb_formB_11.jpg	88.0
+281.6000000000003	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+283.20000000000033	0.8	2back	true negative	n/a	stimuli/fnb_formB_10.jpg	89.0
+284.00000000000034	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+285.60000000000036	0.8	2back	true positive	0.561	stimuli/fnb_formB_11.jpg	90.0
+286.4000000000004	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+288.0000000000004	0.8	2back	true negative	n/a	stimuli/fnb_formB_20.jpg	91.0
+288.8000000000004	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+290.40000000000043	0.8	2back	true positive	0.5733	stimuli/fnb_formB_11.jpg	92.0
+291.20000000000044	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+292.80000000000047	0.8	2back	true negative	n/a	stimuli/fnb_formB_17.jpg	93.0
+293.6000000000005	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+295.2000000000005	0.8	2back	true negative	n/a	stimuli/fnb_formB_13.jpg	94.0
+296.0000000000005	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+297.60000000000053	0.8	2back	true negative	n/a	stimuli/fnb_formB_20.jpg	95.0
+298.40000000000055	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+300.00000000000057	0.8	2back	false negative	n/a	stimuli/fnb_formB_13.jpg	96.0
+300.8000000000006	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+302.4000000000006	0.8	2back	true negative	n/a	stimuli/fnb_formB_11.jpg	97.0
+303.2000000000006	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+304.80000000000064	0.8	2back	true negative	n/a	stimuli/fnb_formB_01.jpg	98.0
+305.60000000000065	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+307.20000000000067	0.8	2back	true negative	n/a	stimuli/fnb_formB_16.jpg	99.0
+308.0000000000007	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+309.6000000000007	0.8	2back	true positive	0.4424	stimuli/fnb_formB_01.jpg	100.0
+310.4000000000007	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+312.00000000000074	9.6	instruction	n/a	n/a	stimuli/2back_img_0.jpg	n/a
+321.60000000000076	0.8	0back	true negative	n/a	stimuli/fnb_formB_20.jpg	101.0
+322.4000000000008	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+324.0000000000008	0.8	0back	true negative	n/a	stimuli/fnb_formB_01.jpg	102.0
+324.8000000000008	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+326.40000000000083	0.8	0back	true negative	n/a	stimuli/fnb_formB_17.jpg	103.0
+327.20000000000084	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+328.80000000000086	0.8	0back	true positive	0.548	stimuli/fnb_formB_19.jpg	104.0
+329.6000000000009	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+331.2000000000009	0.8	0back	true negative	n/a	stimuli/fnb_formB_12.jpg	105.0
+332.0000000000009	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+333.60000000000093	0.8	0back	true positive	0.4797	stimuli/fnb_formB_19.jpg	106.0
+334.40000000000094	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+336.00000000000097	0.8	0back	true positive	0.5421	stimuli/fnb_formB_19.jpg	107.0
+336.800000000001	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+338.400000000001	0.8	0back	true negative	n/a	stimuli/fnb_formB_09.jpg	108.0
+339.200000000001	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+340.80000000000103	0.8	0back	true negative	n/a	stimuli/fnb_formB_12.jpg	109.0
+341.60000000000105	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+343.20000000000107	0.8	0back	true positive	0.5389	stimuli/fnb_formB_19.jpg	110.0
+344.0000000000011	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+345.6000000000011	0.8	0back	true negative	n/a	stimuli/fnb_formB_20.jpg	111.0
+346.4000000000011	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+348.00000000000114	0.8	0back	true negative	n/a	stimuli/fnb_formB_05.jpg	112.0
+348.80000000000115	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+350.40000000000117	0.8	0back	true negative	n/a	stimuli/fnb_formB_17.jpg	113.0
+351.2000000000012	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+352.8000000000012	0.8	0back	true negative	n/a	stimuli/fnb_formB_01.jpg	114.0
+353.6000000000012	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+355.20000000000124	0.8	0back	true negative	n/a	stimuli/fnb_formB_17.jpg	115.0
+356.00000000000125	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+357.6000000000013	0.8	0back	true negative	n/a	stimuli/fnb_formB_05.jpg	116.0
+358.4000000000013	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+360.0000000000013	0.8	0back	true negative	n/a	stimuli/fnb_formB_07.jpg	117.0
+360.8000000000013	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+362.40000000000134	0.8	0back	true positive	0.5457	stimuli/fnb_formB_19.jpg	118.0
+363.20000000000135	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+364.8000000000014	0.8	0back	true negative	n/a	stimuli/fnb_formB_12.jpg	119.0
+365.6000000000014	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+367.2000000000014	0.8	0back	true negative	n/a	stimuli/fnb_formB_03.jpg	120.0
+368.0000000000014	1.6	fixation	n/a	n/a	stimuli/crosshair.jpg	n/a
+369.60000000000144	48.0	fixation	n/a	n/a	stimuli/mask_Fix_xhair.jpg	n/a
