@@ -1,9 +1,6 @@
 {
     "AcquisitionMatrixPE": 110,
     "AcquisitionNumber": 1,
-    "B0FieldIdentifier": [
-        "sub_04_ses_2_DCAN_fmap_acq_MESE"
-    ],
     "BandwidthPerPixelPhaseEncode": 32.468,
     "BaseResolution": 110,
     "BidsGuess": [
